@@ -1,0 +1,9 @@
+C:\MyWorkspaces\IdentityServer4\Weather.Models\bin\Debug\netstandard2.0\Weather.Models.deps.json
+C:\MyWorkspaces\IdentityServer4\Weather.Models\bin\Debug\netstandard2.0\Weather.Models.dll
+C:\MyWorkspaces\IdentityServer4\Weather.Models\bin\Debug\netstandard2.0\Weather.Models.pdb
+C:\MyWorkspaces\IdentityServer4\Weather.Models\obj\Debug\netstandard2.0\Weather.Models.csprojAssemblyReference.cache
+C:\MyWorkspaces\IdentityServer4\Weather.Models\obj\Debug\netstandard2.0\Weather.Models.csproj.CoreCompileInputs.cache
+C:\MyWorkspaces\IdentityServer4\Weather.Models\obj\Debug\netstandard2.0\Weather.Models.AssemblyInfoInputs.cache
+C:\MyWorkspaces\IdentityServer4\Weather.Models\obj\Debug\netstandard2.0\Weather.Models.AssemblyInfo.cs
+C:\MyWorkspaces\IdentityServer4\Weather.Models\obj\Debug\netstandard2.0\Weather.Models.dll
+C:\MyWorkspaces\IdentityServer4\Weather.Models\obj\Debug\netstandard2.0\Weather.Models.pdb

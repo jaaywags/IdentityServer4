@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Weather.Business\Weather.Business.csproj" />
+    <ProjectReference Include="..\Weather.Models\Weather.Models.csproj" />
+    <ProjectReference Include="..\Weather.Mappings\Weather.Mappings.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+</Project>
