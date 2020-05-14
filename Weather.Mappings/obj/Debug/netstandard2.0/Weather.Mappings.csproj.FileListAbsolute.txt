@@ -1,9 +1,0 @@
-C:\MyWorkspaces\IdentityServer4\Weather.Mappings\bin\Debug\netstandard2.0\Weather.Mappings.deps.json
-C:\MyWorkspaces\IdentityServer4\Weather.Mappings\bin\Debug\netstandard2.0\Weather.Mappings.dll
-C:\MyWorkspaces\IdentityServer4\Weather.Mappings\bin\Debug\netstandard2.0\Weather.Mappings.pdb
-C:\MyWorkspaces\IdentityServer4\Weather.Mappings\obj\Debug\netstandard2.0\Weather.Mappings.csprojAssemblyReference.cache
-C:\MyWorkspaces\IdentityServer4\Weather.Mappings\obj\Debug\netstandard2.0\Weather.Mappings.csproj.CoreCompileInputs.cache
-C:\MyWorkspaces\IdentityServer4\Weather.Mappings\obj\Debug\netstandard2.0\Weather.Mappings.AssemblyInfoInputs.cache
-C:\MyWorkspaces\IdentityServer4\Weather.Mappings\obj\Debug\netstandard2.0\Weather.Mappings.AssemblyInfo.cs
-C:\MyWorkspaces\IdentityServer4\Weather.Mappings\obj\Debug\netstandard2.0\Weather.Mappings.dll
-C:\MyWorkspaces\IdentityServer4\Weather.Mappings\obj\Debug\netstandard2.0\Weather.Mappings.pdb
